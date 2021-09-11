@@ -3,10 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Bumsoo Kim"
   given-names: "Bumsoo Kim"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "."
 title: "Real-time Semantic Style Video Generative Model for Projection Mapping"
 version: 0.0.1
 doi: .
